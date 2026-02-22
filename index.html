@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Movie Recommendation Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">🎬 MovieRecommender</div>
+        <ul class="nav-links">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Genres</a></li>
+            <li><a href="#">About</a></li>
+        </ul>
+    </nav>
+    <section class="hero">
+        <h1>Find Your Perfect Movie</h1>
+        <p>Select your mood or favorite genre and get instant recommendations.</p>
+
+        <div class="search-box">
+            <select id="genreSelect">
+                <option value="">Choose Genre</option>
+                <option value="Action">Action</option>
+                <option value="Comedy">Comedy</option>
+                <option value="Romance">Romance</option>
+                <option value="Horror">Horror</option>
+                <option value="Sci-Fi">Sci-Fi</option>
+            </select>
+
+            <button onclick="recommendMovie()">Recommend</button>
+        </div>
+    </section>
+
+    <section class="recommendations">
+        <h2>Recommended Movies</h2>
+        <div id="movieResults" class="movie-grid">
+        </div>
+    </section>
+
+    <section class="features">
+        <h2>Why Use Our Website?</h2>
+        <div class="feature-box">
+            <div>
+                <h3>🎯 Genre-Based Filtering</h3>
+                <p>Get movie suggestions based on your selected genre.</p>
+            </div>
+            <div>
+                <h3>⚡ Fast & Simple</h3>
+                <p>No login required. Instant recommendations.</p>
+            </div>
+            <div>
+                <h3>🖥 Clean Interface</h3>
+                <p>User-friendly design for smooth experience.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 Movie Recommendation Website | BCA Minor Project</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
