@@ -1,0 +1,213 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body {
+    color: white;
+    overflow-x: hidden;
+    background: linear-gradient(-45deg, #000000, #0d0d0d, #160000, #000000);
+    background-size: 400% 400%;
+    animation: bgAnimation 18s ease infinite;
+}
+
+@keyframes bgAnimation {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 8%;
+    background: rgba(0, 0, 0, 0.95);
+    border-bottom: 1px solid rgba(229, 9, 20, 0.4);
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+    color: #e50914;
+}
+
+.nav-links {
+    list-style: none;
+    display: flex;
+    gap: 30px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: #ddd;
+    transition: 0.3s;
+}
+
+.nav-links a:hover {
+    color: #e50914;
+}
+
+.hero {
+    height: 90vh;
+    background: url("Background.jpg") center/cover no-repeat;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.hero::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(to top, rgba(0,0,0,0.98), rgba(0,0,0,0.7));
+}
+
+.hero h1,
+.hero p,
+.search-box {
+    position: relative;
+    z-index: 1;
+}
+
+.hero h1 {
+    font-size: 50px;
+    margin-bottom: 20px;
+    color: #e50914;
+    text-shadow: 0 0 12px rgba(229, 9, 20, 0.4);
+}
+
+.hero p {
+    font-size: 18px;
+    color: #ccc;
+    margin-bottom: 30px;
+}
+
+.search-box select {
+    padding: 12px 15px;
+    border-radius: 4px;
+    border: none;
+    background: #111;
+    color: white;
+    margin-right: 10px;
+}
+
+.search-box button {
+    padding: 12px 25px;
+    border-radius: 4px;
+    border: none;
+    background: #e50914;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.search-box button:hover {
+    background: #c40812;
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(229, 9, 20, 0.4);
+}
+
+.recommendations {
+    padding: 80px 8%;
+    text-align: center;
+    background: #000;
+}
+
+.recommendations h2 {
+    font-size: 30px;
+    margin-bottom: 40px;
+    color: #e50914;
+}
+
+.movie-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 25px;
+}
+
+.movie-card {
+    background: #111;
+    padding: 15px;
+    border-radius: 6px;
+    transition: 0.4s ease;
+    border: 1px solid #222;
+}
+
+.movie-card img {
+    width: 100%;
+    border-radius: 6px;
+}
+
+.movie-card:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 15px rgba(229, 9, 20, 0.4);
+}
+
+.features {
+    padding: 80px 8%;
+    text-align: center;
+    background: #0a0a0a;
+}
+
+.features h2 {
+    font-size: 26px;
+    margin-bottom: 40px;
+    color: #e50914;
+}
+
+.feature-box {
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    flex-wrap: wrap;
+}
+
+.feature-box div {
+    background: #111;
+    padding: 30px;
+    border-radius: 6px;
+    width: 280px;
+    transition: 0.3s;
+    border: 1px solid #222;
+}
+
+.feature-box div:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 0 12px rgba(229, 9, 20, 0.3);
+}
+
+.feature-box h3 {
+    margin-bottom: 10px;
+    color: #e50914;
+}
+
+.feature-box p {
+    color: #bbb;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #000;
+    color: #777;
+}
+
+@media (max-width: 768px) {
+    .hero h1 {
+        font-size: 32px;
+    }
+
+    .navbar {
+        flex-direction: column;
+        gap: 10px;
+    }
+}
+
