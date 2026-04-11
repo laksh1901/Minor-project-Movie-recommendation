@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Movie Recommender</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+
+<nav class="navbar">
+  <a href="index.html" class="logo">
+    <img src="logo.jpeg" alt="logo" />
+    <span>MovieRecommender</span>
+  </a>
+
+  <ul class="nav-links">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="#genres">Genres</a></li>
+
+    <li class="search-container">
+      <span onclick="toggleSearch()">Search</span>
+      <input type="text" id="searchInput" placeholder="Search movies..." />
+      <div id="suggestions" class="suggestions-box"></div>
+    </li>
+
+    <li><a href="#about">About</a></li>
+
+    <li class="profile-menu">
+      <div class="signin-btn" onclick="handleUserClick()">👤 Sign In</div>
+
+      <div class="dropdown" id="profileDropdown">
+        <a href="#" onclick="showFavorites()">My List ❤️</a>
+        <a href="#" onclick="logout()">Logout</a>
+      </div>
+    </li>
+  </ul>
+</nav>
+
+<section class="hero" id="genres">
+  <h1>Find Your Perfect Movie</h1>
+
+  <p class="hero-sub">
+    Discover movies you'll love — instantly and effortlessly.
+  </p>
+
+  <div class="search-box">
+    <select id="genreSelect">
+      <option value="">Choose Genre</option>
+      <option value="Action">Action</option>
+      <option value="Romance">Romance</option>
+      <option value="Comedy">Comedy</option>
+      <option value="Horror">Horror</option>
+      <option value="Drama">Drama</option>
+      <option value="Fantasy">Fantasy</option>
+    </select>
+
+    <select id="ratingSelect">
+      <option value="">Min Rating</option>
+      <option value="7">7+</option>
+      <option value="8">8+</option>
+      <option value="9">9+</option>
+    </select>
+
+    <button onclick="recommendMovie()">Recommend</button>
+  </div>
+</section>
+
+<section class="recommendations">
+  <h2>Recommended Movies</h2>
+  <div id="movieResults" class="movie-grid"></div>
+</section>
+
+<section class="about-section" id="about">
+  <h2>About Us</h2>
+
+  <div class="about-container">
+    <div class="about-box">
+      <h3>🎬 Our Mission</h3>
+      <p>
+        Our goal is to make discovering movies simple, fast, and enjoyable.
+        We help users find the perfect movie based on their mood and interests.
+        No more wasting time — just click and enjoy instantly.
+      </p>
+    </div>
+
+    <div class="about-box">
+      <h3>⚡ Fast & Simple</h3>
+      <p>
+        Clean interface with quick recommendations.
+        Explore movies in seconds without confusion.
+      </p>
+    </div>
+
+    <div class="about-box">
+      <h3>🔥 Smart Picks</h3>
+      <p>
+        From trending hits to hidden gems.
+        We help you discover something worth watching every time.
+      </p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>© 2026 Movie Recommendation Website | BCA Minor Project</p>
+</footer>
+
+<!-- LOGIN / SIGNUP -->
+<div id="loginModal" class="modal">
+  <div class="modal-content">
+    <span class="close-btn" onclick="closeModal()">&times;</span>
+
+    <h2 id="formTitle">Sign In</h2>
+
+    <input type="text" id="usernameInput" placeholder="Enter Username" />
+
+    <!-- ✅ PASSWORD WITH EYE -->
+    <div style="position: relative;">
+      <input type="password" id="passwordInput" placeholder="Enter Password" />
+      <span onclick="togglePassword()" 
+            style="position:absolute; right:10px; top:50%; transform:translateY(-50%); cursor:pointer;">
+            👁️
+      </span>
+    </div>
+
+    <button onclick="handleAuth()">Login</button>
+
+    <p style="margin-top:10px; font-size:14px;">
+      <span id="toggleText">Don't have an account?</span>
+      <span id="toggleBtn" onclick="toggleAuthMode()" style="color:#e50914; cursor:pointer;">
+        Sign Up
+      </span>
+    </p>
+  </div>
+</div>
+
+<!-- MOVIE POPUP -->
+<div id="movieModal" class="modal">
+  <div class="modal-content">
+    <span class="close-btn" onclick="closeMovieModal()">&times;</span>
+    <h2 id="movieTitle"></h2>
+    <p id="movieInfo"></p>
+
+    <p style="margin-top:15px; color:#ccc;">
+      Enjoy movie details and add it to your favorites ❤️
+    </p>
+  </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
