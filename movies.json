@@ -1,0 +1,4622 @@
+[
+  {
+    "title": "Avengers Endgame",
+    "genre": "Action",
+    "rating": 8.4,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg"
+  },
+  {
+    "title": "John Wick",
+    "genre": "Action",
+    "rating": 7.4,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/5vHssUeVe25bMrof1HyaPyWgaP.jpg"
+  },
+  {
+    "title": "The Dark Knight",
+    "genre": "Action",
+    "rating": 9.0,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg"
+  },
+  {
+    "title": "The Avengers",
+    "genre": "Action",
+    "rating": 8.0,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
+  },
+  {
+    "title": "Guardians of the Galaxy",
+    "genre": "Action",
+    "rating": 8.0,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/r7vmZjiyZw9rpJMQJdXpjgiCOk9.jpg"
+  },
+  {
+    "title": "Mad Max Fury Road",
+    "genre": "Action",
+    "rating": 8.1,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/8tZYtuWezp8JbcsvHYO0O46tFbo.jpg"
+  },
+  {
+    "title": "Die Hard",
+    "genre": "Action",
+    "rating": 8.2,
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/yFihWxQcmqcaBR31QM6Y8gT6aY.jpg"
+  },
+  {
+    "title": "Lethal Weapon",
+    "genre": "Action",
+    "rating": 7.9,
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/fTq4ThIP2ygadzL3S2S1EMWDjTG.jpg"
+  },
+  {
+    "title": "Top Gun Maverick",
+    "genre": "Action",
+    "rating": 8.4,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/62HCnUTziyWcpDaBO2i1DX17lA.jpg"
+  },
+  {
+    "title": "Gladiator",
+    "genre": "Action",
+    "rating": 8.5,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg"
+  },
+  {
+    "title": "Mission Impossible 1",
+    "genre": "Action",
+    "rating": 7.1,
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_10.jpg"
+  },
+  {
+    "title": "Fast & Furious 1",
+    "genre": "Action",
+    "rating": 6.8,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_11.jpg"
+  },
+  {
+    "title": "Bourne 1",
+    "genre": "Action",
+    "rating": 7.5,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_12.jpg"
+  },
+  {
+    "title": "Kingsman 1",
+    "genre": "Action",
+    "rating": 7.3,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_13.jpg"
+  },
+  {
+    "title": "XXX 1",
+    "genre": "Action",
+    "rating": 5.7,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_14.jpg"
+  },
+  {
+    "title": "Transporter 1",
+    "genre": "Action",
+    "rating": 6.9,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_15.jpg"
+  },
+  {
+    "title": "Point Break 1",
+    "genre": "Action",
+    "rating": 7.6,
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_16.jpg"
+  },
+  {
+    "title": "Speed 1",
+    "genre": "Action",
+    "rating": 7.3,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_17.jpg"
+  },
+  {
+    "title": "Con Air 1",
+    "genre": "Action",
+    "rating": 6.8,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_18.jpg"
+  },
+  {
+    "title": "The Rock 1",
+    "genre": "Action",
+    "rating": 7.4,
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_19.jpg"
+  },
+  {
+    "title": "Mission Impossible 2",
+    "genre": "Action",
+    "rating": 6.9,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_20.jpg"
+  },
+  {
+    "title": "Fast & Furious 2",
+    "genre": "Action",
+    "rating": 7.0,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_21.jpg"
+  },
+  {
+    "title": "Bourne 2",
+    "genre": "Action",
+    "rating": 7.8,
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_22.jpg"
+  },
+  {
+    "title": "Kingsman 2",
+    "genre": "Action",
+    "rating": 7.1,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_23.jpg"
+  },
+  {
+    "title": "XXX 2",
+    "genre": "Action",
+    "rating": 5.9,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_24.jpg"
+  },
+  {
+    "title": "Transporter 2",
+    "genre": "Action",
+    "rating": 6.5,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_25.jpg"
+  },
+  {
+    "title": "Point Break 2",
+    "genre": "Action",
+    "rating": 7.0,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_26.jpg"
+  },
+  {
+    "title": "Speed 2",
+    "genre": "Action",
+    "rating": 5.4,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_27.jpg"
+  },
+  {
+    "title": "Con Air 2",
+    "genre": "Action",
+    "rating": 6.5,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_28.jpg"
+  },
+  {
+    "title": "The Rock 2",
+    "genre": "Action",
+    "rating": 7.1,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_29.jpg"
+  },
+  {
+    "title": "Mission Impossible 3",
+    "genre": "Action",
+    "rating": 7.5,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_30.jpg"
+  },
+  {
+    "title": "Fast & Furious 3",
+    "genre": "Action",
+    "rating": 6.5,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_31.jpg"
+  },
+  {
+    "title": "Bourne 3",
+    "genre": "Action",
+    "rating": 8.1,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_32.jpg"
+  },
+  {
+    "title": "Kingsman 3",
+    "genre": "Action",
+    "rating": 6.7,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_33.jpg"
+  },
+  {
+    "title": "XXX 3",
+    "genre": "Action",
+    "rating": 5.5,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_34.jpg"
+  },
+  {
+    "title": "Transporter 3",
+    "genre": "Action",
+    "rating": 6.8,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_35.jpg"
+  },
+  {
+    "title": "Point Break 3",
+    "genre": "Action",
+    "rating": 6.8,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_36.jpg"
+  },
+  {
+    "title": "Speed 3",
+    "genre": "Action",
+    "rating": 6.2,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_37.jpg"
+  },
+  {
+    "title": "Con Air 3",
+    "genre": "Action",
+    "rating": 6.7,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_38.jpg"
+  },
+  {
+    "title": "The Rock 3",
+    "genre": "Action",
+    "rating": 6.9,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_39.jpg"
+  },
+  {
+    "title": "Mission Impossible 4",
+    "genre": "Action",
+    "rating": 7.2,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_40.jpg"
+  },
+  {
+    "title": "Fast & Furious 4",
+    "genre": "Action",
+    "rating": 6.7,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_41.jpg"
+  },
+  {
+    "title": "Bourne 4",
+    "genre": "Action",
+    "rating": 7.6,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_42.jpg"
+  },
+  {
+    "title": "Kingsman 4",
+    "genre": "Action",
+    "rating": 6.9,
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_43.jpg"
+  },
+  {
+    "title": "XXX 4",
+    "genre": "Action",
+    "rating": 5.8,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_44.jpg"
+  },
+  {
+    "title": "Transporter 4",
+    "genre": "Action",
+    "rating": 6.6,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_45.jpg"
+  },
+  {
+    "title": "Point Break 4",
+    "genre": "Action",
+    "rating": 6.5,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_46.jpg"
+  },
+  {
+    "title": "Speed 4",
+    "genre": "Action",
+    "rating": 5.9,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_47.jpg"
+  },
+  {
+    "title": "Con Air 4",
+    "genre": "Action",
+    "rating": 6.4,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_48.jpg"
+  },
+  {
+    "title": "The Rock 4",
+    "genre": "Action",
+    "rating": 6.8,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_action_49.jpg"
+  },
+  {
+    "title": "Titanic",
+    "genre": "Romance",
+    "rating": 7.8,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"
+  },
+  {
+    "title": "The Notebook",
+    "genre": "Romance",
+    "rating": 7.8,
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/qom1SZSENdmHFNZBXbtJAU0WTlC.jpg"
+  },
+  {
+    "title": "La La Land",
+    "genre": "Romance",
+    "rating": 8.0,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/uDO8zWDhfWwoFdKS4fzkUJt0Rf0.jpg"
+  },
+  {
+    "title": "Her",
+    "genre": "Romance",
+    "rating": 8.0,
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/eCOtqtfvn7mxGl6nfmq4b1exJRc.jpg"
+  },
+  {
+    "title": "Love Actually",
+    "genre": "Romance",
+    "rating": 7.6,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/7QPeVsr9fZM51Fc9Um431EqOSAe.jpg"
+  },
+  {
+    "title": "Amelie",
+    "genre": "Romance",
+    "rating": 8.3,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/oTKduWL2tpIKEmkAqF4m3NWdM1.jpg"
+  },
+  {
+    "title": "Before Sunrise",
+    "genre": "Romance",
+    "rating": 8.1,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/kf1JrR6X9h9NP7VDaRao7IhiHBf.jpg"
+  },
+  {
+    "title": "Me Before You",
+    "genre": "Romance",
+    "rating": 7.4,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/Ia3dzj5LnCj1ZBdlVeJrbKJQxG.jpg"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "genre": "Romance",
+    "rating": 7.7,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/clq0U5TjUO0eO7dJd3dY0uQX7qv.jpg"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "genre": "Romance",
+    "rating": 7.8,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/sGjIvtVvTlWnia2zfJfHz81pZ9Q.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 1",
+    "genre": "Romance",
+    "rating": 6.8,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_10.jpg"
+  },
+  {
+    "title": "Youve Got Mail 1",
+    "genre": "Romance",
+    "rating": 6.8,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_11.jpg"
+  },
+  {
+    "title": "Splash 1",
+    "genre": "Romance",
+    "rating": 6.7,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_12.jpg"
+  },
+  {
+    "title": "Legal Blonde 1",
+    "genre": "Romance",
+    "rating": 6.4,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_13.jpg"
+  },
+  {
+    "title": "The Proposal 1",
+    "genre": "Romance",
+    "rating": 6.7,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_14.jpg"
+  },
+  {
+    "title": "Kate Leopold 1",
+    "genre": "Romance",
+    "rating": 6.1,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_15.jpg"
+  },
+  {
+    "title": "Sweet Home Alabama 1",
+    "genre": "Romance",
+    "rating": 6.2,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_16.jpg"
+  },
+  {
+    "title": "A Walk to Remember 1",
+    "genre": "Romance",
+    "rating": 6.7,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_17.jpg"
+  },
+  {
+    "title": "Enchanted 1",
+    "genre": "Romance",
+    "rating": 6.8,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_18.jpg"
+  },
+  {
+    "title": "Dear John 1",
+    "genre": "Romance",
+    "rating": 6.3,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_19.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 2",
+    "genre": "Romance",
+    "rating": 6.9,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_20.jpg"
+  },
+  {
+    "title": "Youve Got Mail 2",
+    "genre": "Romance",
+    "rating": 6.5,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_21.jpg"
+  },
+  {
+    "title": "Splash 2",
+    "genre": "Romance",
+    "rating": 6.4,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_22.jpg"
+  },
+  {
+    "title": "Legal Blonde 2",
+    "genre": "Romance",
+    "rating": 6.5,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_23.jpg"
+  },
+  {
+    "title": "The Proposal 2",
+    "genre": "Romance",
+    "rating": 6.6,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_24.jpg"
+  },
+  {
+    "title": "Kate Leopold 2",
+    "genre": "Romance",
+    "rating": 6.0,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_25.jpg"
+  },
+  {
+    "title": "Sweet Home Alabama 2",
+    "genre": "Romance",
+    "rating": 6.3,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_26.jpg"
+  },
+  {
+    "title": "A Walk to Remember 2",
+    "genre": "Romance",
+    "rating": 6.8,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_27.jpg"
+  },
+  {
+    "title": "Enchanted 2",
+    "genre": "Romance",
+    "rating": 6.6,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_28.jpg"
+  },
+  {
+    "title": "Dear John 2",
+    "genre": "Romance",
+    "rating": 6.5,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_29.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 3",
+    "genre": "Romance",
+    "rating": 7.0,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_30.jpg"
+  },
+  {
+    "title": "Youve Got Mail 3",
+    "genre": "Romance",
+    "rating": 6.7,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_31.jpg"
+  },
+  {
+    "title": "Splash 3",
+    "genre": "Romance",
+    "rating": 6.6,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_32.jpg"
+  },
+  {
+    "title": "Legal Blonde 3",
+    "genre": "Romance",
+    "rating": 6.3,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_33.jpg"
+  },
+  {
+    "title": "The Proposal 3",
+    "genre": "Romance",
+    "rating": 6.8,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_34.jpg"
+  },
+  {
+    "title": "Kate Leopold 3",
+    "genre": "Romance",
+    "rating": 6.2,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_35.jpg"
+  },
+  {
+    "title": "Sweet Home Alabama 3",
+    "genre": "Romance",
+    "rating": 6.1,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_36.jpg"
+  },
+  {
+    "title": "A Walk to Remember 3",
+    "genre": "Romance",
+    "rating": 6.9,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_37.jpg"
+  },
+  {
+    "title": "Enchanted 3",
+    "genre": "Romance",
+    "rating": 6.9,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_38.jpg"
+  },
+  {
+    "title": "Dear John 3",
+    "genre": "Romance",
+    "rating": 6.4,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_39.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 4",
+    "genre": "Romance",
+    "rating": 6.7,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_40.jpg"
+  },
+  {
+    "title": "Youve Got Mail 4",
+    "genre": "Romance",
+    "rating": 6.6,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_41.jpg"
+  },
+  {
+    "title": "Splash 4",
+    "genre": "Romance",
+    "rating": 6.5,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_42.jpg"
+  },
+  {
+    "title": "Legal Blonde 4",
+    "genre": "Romance",
+    "rating": 6.6,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_43.jpg"
+  },
+  {
+    "title": "The Proposal 4",
+    "genre": "Romance",
+    "rating": 6.9,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_44.jpg"
+  },
+  {
+    "title": "Kate Leopold 4",
+    "genre": "Romance",
+    "rating": 6.1,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_45.jpg"
+  },
+  {
+    "title": "Sweet Home Alabama 4",
+    "genre": "Romance",
+    "rating": 6.0,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_46.jpg"
+  },
+  {
+    "title": "A Walk to Remember 4",
+    "genre": "Romance",
+    "rating": 7.0,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_47.jpg"
+  },
+  {
+    "title": "Enchanted 4",
+    "genre": "Romance",
+    "rating": 6.7,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_48.jpg"
+  },
+  {
+    "title": "Dear John 4",
+    "genre": "Romance",
+    "rating": 6.6,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_rom_49.jpg"
+  },
+  {
+    "title": "The Hangover",
+    "genre": "Comedy",
+    "rating": 7.7,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg"
+  },
+  {
+    "title": "Superbad",
+    "genre": "Comedy",
+    "rating": 7.6,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/ek8e8txUyUwd2BNqj6lFEerJfbq.jpg"
+  },
+  {
+    "title": "The Grand Budapest Hotel",
+    "genre": "Comedy",
+    "rating": 8.1,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/nX5XotM9yprCKarRH4fzOq1VM1J.jpg"
+  },
+  {
+    "title": "The Truman Show",
+    "genre": "Comedy",
+    "rating": 8.2,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg"
+  },
+  {
+    "title": "Groundhog Day",
+    "genre": "Comedy",
+    "rating": 8.0,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/vXjVd0Vu0F6CLiIv2D0qF5V6s4.jpg"
+  },
+  {
+    "title": "Step Brothers",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/8jH9ZP5N7qf0Q8k5V9y4V7j3b2M.jpg"
+  },
+  {
+    "title": "The Mask",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/6cgQ1xK3u3y3Y9u6l0d9s9k9QvP.jpg"
+  },
+  {
+    "title": "Rush Hour",
+    "genre": "Comedy",
+    "rating": 7.0,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/1Fz6z3Z1r7iY3v5o5Y3x9X7d9K.jpg"
+  },
+  {
+    "title": "Dumb and Dumber",
+    "genre": "Comedy",
+    "rating": 7.3,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/6o8R7s6P9z7Y8X9s3W3k7l5H9n.jpg"
+  },
+  {
+    "title": "Yes Man",
+    "genre": "Comedy",
+    "rating": 6.8,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/vd4z3Fh8oP5d9y0F3s3w7Q5z8k.jpg"
+  },
+  {
+    "title": "Anchorman 1",
+    "genre": "Comedy",
+    "rating": 7.2,
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_10.jpg"
+  },
+  {
+    "title": "Old School 1",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_11.jpg"
+  },
+  {
+    "title": "Wedding Crashers 1",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_12.jpg"
+  },
+  {
+    "title": "Meet the Parents 1",
+    "genre": "Comedy",
+    "rating": 6.8,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_13.jpg"
+  },
+  {
+    "title": "I Love You Man 1",
+    "genre": "Comedy",
+    "rating": 6.7,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_14.jpg"
+  },
+  {
+    "title": "Bridesmaids 1",
+    "genre": "Comedy",
+    "rating": 7.3,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_15.jpg"
+  },
+  {
+    "title": "Central Intelligence 1",
+    "genre": "Comedy",
+    "rating": 6.3,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_16.jpg"
+  },
+  {
+    "title": "Ghostbusters 1",
+    "genre": "Comedy",
+    "rating": 7.8,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_17.jpg"
+  },
+  {
+    "title": "Austin Powers 1",
+    "genre": "Comedy",
+    "rating": 6.8,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_18.jpg"
+  },
+  {
+    "title": "Pink Panther 1",
+    "genre": "Comedy",
+    "rating": 5.4,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_19.jpg"
+  },
+  {
+    "title": "Anchorman 2",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_20.jpg"
+  },
+  {
+    "title": "Old School 2",
+    "genre": "Comedy",
+    "rating": 7.0,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_21.jpg"
+  },
+  {
+    "title": "Wedding Crashers 2",
+    "genre": "Comedy",
+    "rating": 7.0,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_22.jpg"
+  },
+  {
+    "title": "Meet the Parents 2",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_23.jpg"
+  },
+  {
+    "title": "I Love You Man 2",
+    "genre": "Comedy",
+    "rating": 6.5,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_24.jpg"
+  },
+  {
+    "title": "Bridesmaids 2",
+    "genre": "Comedy",
+    "rating": 7.1,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_25.jpg"
+  },
+  {
+    "title": "Central Intelligence 2",
+    "genre": "Comedy",
+    "rating": 6.4,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_26.jpg"
+  },
+  {
+    "title": "Ghostbusters 2",
+    "genre": "Comedy",
+    "rating": 6.8,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_27.jpg"
+  },
+  {
+    "title": "Austin Powers 2",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_28.jpg"
+  },
+  {
+    "title": "Pink Panther 2",
+    "genre": "Comedy",
+    "rating": 5.5,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_29.jpg"
+  },
+  {
+    "title": "Anchorman 3",
+    "genre": "Comedy",
+    "rating": 7.1,
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_30.jpg"
+  },
+  {
+    "title": "Old School 3",
+    "genre": "Comedy",
+    "rating": 6.8,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_31.jpg"
+  },
+  {
+    "title": "Wedding Crashers 3",
+    "genre": "Comedy",
+    "rating": 6.8,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_32.jpg"
+  },
+  {
+    "title": "Meet the Parents 3",
+    "genre": "Comedy",
+    "rating": 6.7,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_33.jpg"
+  },
+  {
+    "title": "I Love You Man 3",
+    "genre": "Comedy",
+    "rating": 6.6,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_34.jpg"
+  },
+  {
+    "title": "Bridesmaids 3",
+    "genre": "Comedy",
+    "rating": 7.2,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_35.jpg"
+  },
+  {
+    "title": "Central Intelligence 3",
+    "genre": "Comedy",
+    "rating": 6.2,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_36.jpg"
+  },
+  {
+    "title": "Ghostbusters 3",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_37.jpg"
+  },
+  {
+    "title": "Austin Powers 3",
+    "genre": "Comedy",
+    "rating": 6.7,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_38.jpg"
+  },
+  {
+    "title": "Pink Panther 3",
+    "genre": "Comedy",
+    "rating": 5.6,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_39.jpg"
+  },
+  {
+    "title": "Anchorman 4",
+    "genre": "Comedy",
+    "rating": 7.0,
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_40.jpg"
+  },
+  {
+    "title": "Old School 4",
+    "genre": "Comedy",
+    "rating": 6.7,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_41.jpg"
+  },
+  {
+    "title": "Wedding Crashers 4",
+    "genre": "Comedy",
+    "rating": 6.7,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_42.jpg"
+  },
+  {
+    "title": "Meet the Parents 4",
+    "genre": "Comedy",
+    "rating": 6.6,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_43.jpg"
+  },
+  {
+    "title": "I Love You Man 4",
+    "genre": "Comedy",
+    "rating": 6.4,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_44.jpg"
+  },
+  {
+    "title": "Bridesmaids 4",
+    "genre": "Comedy",
+    "rating": 7.0,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_45.jpg"
+  },
+  {
+    "title": "Central Intelligence 4",
+    "genre": "Comedy",
+    "rating": 6.1,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_46.jpg"
+  },
+  {
+    "title": "Ghostbusters 4",
+    "genre": "Comedy",
+    "rating": 7.0,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_47.jpg"
+  },
+  {
+    "title": "Austin Powers 4",
+    "genre": "Comedy",
+    "rating": 6.6,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_48.jpg"
+  },
+  {
+    "title": "Pink Panther 4",
+    "genre": "Comedy",
+    "rating": 5.3,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_com_49.jpg"
+  },
+  {
+    "title": "The Conjuring",
+    "genre": "Horror",
+    "rating": 7.5,
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/wVYREutTvI2tmxr6ujrHT704wGF.jpg"
+  },
+  {
+    "title": "It",
+    "genre": "Horror",
+    "rating": 7.3,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/9E2y5Q7WlCVNEhP5GiVTjhEhx1o.jpg"
+  },
+  {
+    "title": "Get Out",
+    "genre": "Horror",
+    "rating": 7.7,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/tFXcEccSQMf3lfhfXKSU9iRBpa3.jpg"
+  },
+  {
+    "title": "Hereditary",
+    "genre": "Horror",
+    "rating": 7.3,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/p9fmuz2Oj3HtEJEqbptLlk3w8cF.jpg"
+  },
+  {
+    "title": "A Quiet Place",
+    "genre": "Horror",
+    "rating": 7.5,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/nAU74GmpUk7t5iklEp3bufwDq4n.jpg"
+  },
+  {
+    "title": "The Exorcist",
+    "genre": "Horror",
+    "rating": 8.1,
+    "year": 1973,
+    "poster": "https://image.tmdb.org/t/p/w500/4ucLGcXVVSVnsfkGtbLY4XAius8.jpg"
+  },
+  {
+    "title": "Insidious",
+    "genre": "Horror",
+    "rating": 6.8,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/2tP3PY0nRzC8V3jE0r6RkVQpVwR.jpg"
+  },
+  {
+    "title": "The Ring",
+    "genre": "Horror",
+    "rating": 7.1,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/1aWz6y7g1VtUQ4c8S5R7jW3Z5sN.jpg"
+  },
+  {
+    "title": "Sinister",
+    "genre": "Horror",
+    "rating": 6.8,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/4i8c0dV0M3K0S8j9v8G7nVh3P4n.jpg"
+  },
+  {
+    "title": "The Nun",
+    "genre": "Horror",
+    "rating": 5.3,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/sFC1ElvoKGdHJIWRpNB3xWJ9lJA.jpg"
+  },
+  {
+    "title": "The Ring 1",
+    "genre": "Horror",
+    "rating": 6.9,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_10.jpg"
+  },
+  {
+    "title": "Poltergeist 1",
+    "genre": "Horror",
+    "rating": 7.4,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_11.jpg"
+  },
+  {
+    "title": "Ouija 1",
+    "genre": "Horror",
+    "rating": 5.1,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_12.jpg"
+  },
+  {
+    "title": "Paranormal Activity 1",
+    "genre": "Horror",
+    "rating": 6.3,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_13.jpg"
+  },
+  {
+    "title": "The Descent 1",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_14.jpg"
+  },
+  {
+    "title": "28 Days Later 1",
+    "genre": "Horror",
+    "rating": 7.3,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_15.jpg"
+  },
+  {
+    "title": "Jaws 1",
+    "genre": "Horror",
+    "rating": 8.0,
+    "year": 1975,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_16.jpg"
+  },
+  {
+    "title": "Aliens 1",
+    "genre": "Horror",
+    "rating": 8.1,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_17.jpg"
+  },
+  {
+    "title": "Halloween 1",
+    "genre": "Horror",
+    "rating": 7.9,
+    "year": 1978,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_18.jpg"
+  },
+  {
+    "title": "The Shining 1",
+    "genre": "Horror",
+    "rating": 8.4,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_19.jpg"
+  },
+  {
+    "title": "The Ring 2",
+    "genre": "Horror",
+    "rating": 6.8,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_20.jpg"
+  },
+  {
+    "title": "Poltergeist 2",
+    "genre": "Horror",
+    "rating": 7.1,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_21.jpg"
+  },
+  {
+    "title": "Ouija 2",
+    "genre": "Horror",
+    "rating": 5.0,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_22.jpg"
+  },
+  {
+    "title": "Paranormal Activity 2",
+    "genre": "Horror",
+    "rating": 6.0,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_23.jpg"
+  },
+  {
+    "title": "The Descent 2",
+    "genre": "Horror",
+    "rating": 6.9,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_24.jpg"
+  },
+  {
+    "title": "28 Days Later 2",
+    "genre": "Horror",
+    "rating": 7.1,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_25.jpg"
+  },
+  {
+    "title": "Jaws 2",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 1975,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_26.jpg"
+  },
+  {
+    "title": "Aliens 2",
+    "genre": "Horror",
+    "rating": 7.9,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_27.jpg"
+  },
+  {
+    "title": "Halloween 2",
+    "genre": "Horror",
+    "rating": 7.4,
+    "year": 1978,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_28.jpg"
+  },
+  {
+    "title": "The Shining 2",
+    "genre": "Horror",
+    "rating": 8.2,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_29.jpg"
+  },
+  {
+    "title": "The Ring 3",
+    "genre": "Horror",
+    "rating": 7.0,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_30.jpg"
+  },
+  {
+    "title": "Poltergeist 3",
+    "genre": "Horror",
+    "rating": 7.3,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_31.jpg"
+  },
+  {
+    "title": "Ouija 3",
+    "genre": "Horror",
+    "rating": 5.2,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_32.jpg"
+  },
+  {
+    "title": "Paranormal Activity 3",
+    "genre": "Horror",
+    "rating": 6.1,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_33.jpg"
+  },
+  {
+    "title": "The Descent 3",
+    "genre": "Horror",
+    "rating": 7.0,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_34.jpg"
+  },
+  {
+    "title": "28 Days Later 3",
+    "genre": "Horror",
+    "rating": 7.0,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_35.jpg"
+  },
+  {
+    "title": "Jaws 3",
+    "genre": "Horror",
+    "rating": 7.1,
+    "year": 1975,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_36.jpg"
+  },
+  {
+    "title": "Aliens 3",
+    "genre": "Horror",
+    "rating": 8.0,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_37.jpg"
+  },
+  {
+    "title": "Halloween 3",
+    "genre": "Horror",
+    "rating": 7.6,
+    "year": 1978,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_38.jpg"
+  },
+  {
+    "title": "The Shining 3",
+    "genre": "Horror",
+    "rating": 8.3,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_39.jpg"
+  },
+  {
+    "title": "The Ring 4",
+    "genre": "Horror",
+    "rating": 6.7,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_40.jpg"
+  },
+  {
+    "title": "Poltergeist 4",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_41.jpg"
+  },
+  {
+    "title": "Ouija 4",
+    "genre": "Horror",
+    "rating": 5.3,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_42.jpg"
+  },
+  {
+    "title": "Paranormal Activity 4",
+    "genre": "Horror",
+    "rating": 6.2,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_43.jpg"
+  },
+  {
+    "title": "The Descent 4",
+    "genre": "Horror",
+    "rating": 7.1,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_44.jpg"
+  },
+  {
+    "title": "28 Days Later 4",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_45.jpg"
+  },
+  {
+    "title": "Jaws 4",
+    "genre": "Horror",
+    "rating": 7.0,
+    "year": 1975,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_46.jpg"
+  },
+  {
+    "title": "Aliens 4",
+    "genre": "Horror",
+    "rating": 7.8,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_47.jpg"
+  },
+  {
+    "title": "Halloween 4",
+    "genre": "Horror",
+    "rating": 7.5,
+    "year": 1978,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_48.jpg"
+  },
+  {
+    "title": "The Shining 4",
+    "genre": "Horror",
+    "rating": 8.1,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_hor_49.jpg"
+  },
+  {
+    "title": "The Shawshank Redemption",
+    "genre": "Drama",
+    "rating": 9.3,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "genre": "Drama",
+    "rating": 8.8,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg"
+  },
+  {
+    "title": "Fight Club",
+    "genre": "Drama",
+    "rating": 8.8,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/pB8BM7pdSp6B6Ih7QZ4DrQ3PmJK.jpg"
+  },
+  {
+    "title": "The Social Network",
+    "genre": "Drama",
+    "rating": 7.7,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/n0ybibhJtQ5icDqTp8eRytcIHJx.jpg"
+  },
+  {
+    "title": "Whiplash",
+    "genre": "Drama",
+    "rating": 8.5,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/lIv1QinFqz4dlp5U4lQ6HaiskOZ.jpg"
+  },
+  {
+    "title": "The Green Mile",
+    "genre": "Drama",
+    "rating": 8.6,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/velWPhVMQeQKcxggNEU8YmIo52R.jpg"
+  },
+  {
+    "title": "A Beautiful Mind",
+    "genre": "Drama",
+    "rating": 8.2,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/zwzWCmH72OSC9NA0ipoqw5Zjya8.jpg"
+  },
+  {
+    "title": "The Pianist",
+    "genre": "Drama",
+    "rating": 8.5,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg"
+  },
+  {
+    "title": "12 Years a Slave",
+    "genre": "Drama",
+    "rating": 8.1,
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/kb3X943WMIJYVg4SOAyK0pmWL5D.jpg"
+  },
+  {
+    "title": "Joker",
+    "genre": "Drama",
+    "rating": 8.4,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg"
+  },
+  {
+    "title": "The Godfather 1",
+    "genre": "Drama",
+    "rating": 9.2,
+    "year": 1972,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_10.jpg"
+  },
+  {
+    "title": "Inception 1",
+    "genre": "Drama",
+    "rating": 8.8,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_11.jpg"
+  },
+  {
+    "title": "Pulp Fiction 1",
+    "genre": "Drama",
+    "rating": 8.9,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_12.jpg"
+  },
+  {
+    "title": "Goodfellas 1",
+    "genre": "Drama",
+    "rating": 8.7,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_13.jpg"
+  },
+  {
+    "title": "No Country Old Men 1",
+    "genre": "Drama",
+    "rating": 8.1,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_14.jpg"
+  },
+  {
+    "title": "Se7en 1",
+    "genre": "Drama",
+    "rating": 8.6,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_15.jpg"
+  },
+  {
+    "title": "American Beauty 1",
+    "genre": "Drama",
+    "rating": 8.3,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_16.jpg"
+  },
+  {
+    "title": "Brokeback Mountain 1",
+    "genre": "Drama",
+    "rating": 7.6,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_17.jpg"
+  },
+  {
+    "title": "Hidden Figures 1",
+    "genre": "Drama",
+    "rating": 7.8,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_18.jpg"
+  },
+  {
+    "title": "Spotlight 1",
+    "genre": "Drama",
+    "rating": 8.1,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_19.jpg"
+  },
+  {
+    "title": "The Godfather 2",
+    "genre": "Drama",
+    "rating": 7.9,
+    "year": 1972,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_20.jpg"
+  },
+  {
+    "title": "Inception 2",
+    "genre": "Drama",
+    "rating": 8.7,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_21.jpg"
+  },
+  {
+    "title": "Pulp Fiction 2",
+    "genre": "Drama",
+    "rating": 8.8,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_22.jpg"
+  },
+  {
+    "title": "Goodfellas 2",
+    "genre": "Drama",
+    "rating": 8.5,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_23.jpg"
+  },
+  {
+    "title": "No Country Old Men 2",
+    "genre": "Drama",
+    "rating": 8.0,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_24.jpg"
+  },
+  {
+    "title": "Se7en 2",
+    "genre": "Drama",
+    "rating": 8.4,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_25.jpg"
+  },
+  {
+    "title": "American Beauty 2",
+    "genre": "Drama",
+    "rating": 8.1,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_26.jpg"
+  },
+  {
+    "title": "Brokeback Mountain 2",
+    "genre": "Drama",
+    "rating": 7.4,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_27.jpg"
+  },
+  {
+    "title": "Hidden Figures 2",
+    "genre": "Drama",
+    "rating": 7.7,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_28.jpg"
+  },
+  {
+    "title": "Spotlight 2",
+    "genre": "Drama",
+    "rating": 7.9,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_29.jpg"
+  },
+  {
+    "title": "The Godfather 3",
+    "genre": "Drama",
+    "rating": 8.1,
+    "year": 1972,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_30.jpg"
+  },
+  {
+    "title": "Inception 3",
+    "genre": "Drama",
+    "rating": 8.6,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_31.jpg"
+  },
+  {
+    "title": "Pulp Fiction 3",
+    "genre": "Drama",
+    "rating": 8.7,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_32.jpg"
+  },
+  {
+    "title": "Goodfellas 3",
+    "genre": "Drama",
+    "rating": 8.4,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_33.jpg"
+  },
+  {
+    "title": "No Country Old Men 3",
+    "genre": "Drama",
+    "rating": 8.2,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_34.jpg"
+  },
+  {
+    "title": "Se7en 3",
+    "genre": "Drama",
+    "rating": 8.5,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_35.jpg"
+  },
+  {
+    "title": "American Beauty 3",
+    "genre": "Drama",
+    "rating": 8.2,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_36.jpg"
+  },
+  {
+    "title": "Brokeback Mountain 3",
+    "genre": "Drama",
+    "rating": 7.5,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_37.jpg"
+  },
+  {
+    "title": "Hidden Figures 3",
+    "genre": "Drama",
+    "rating": 7.6,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_38.jpg"
+  },
+  {
+    "title": "Spotlight 3",
+    "genre": "Drama",
+    "rating": 8.0,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_39.jpg"
+  },
+  {
+    "title": "The Godfather 4",
+    "genre": "Drama",
+    "rating": 8.0,
+    "year": 1972,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_40.jpg"
+  },
+  {
+    "title": "Inception 4",
+    "genre": "Drama",
+    "rating": 8.5,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_41.jpg"
+  },
+  {
+    "title": "Pulp Fiction 4",
+    "genre": "Drama",
+    "rating": 8.6,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_42.jpg"
+  },
+  {
+    "title": "Goodfellas 4",
+    "genre": "Drama",
+    "rating": 8.3,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_43.jpg"
+  },
+  {
+    "title": "No Country Old Men 4",
+    "genre": "Drama",
+    "rating": 7.9,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_44.jpg"
+  },
+  {
+    "title": "Se7en 4",
+    "genre": "Drama",
+    "rating": 8.3,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_45.jpg"
+  },
+  {
+    "title": "American Beauty 4",
+    "genre": "Drama",
+    "rating": 8.0,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_46.jpg"
+  },
+  {
+    "title": "Brokeback Mountain 4",
+    "genre": "Drama",
+    "rating": 7.3,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_47.jpg"
+  },
+  {
+    "title": "Hidden Figures 4",
+    "genre": "Drama",
+    "rating": 7.9,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_48.jpg"
+  },
+  {
+    "title": "Spotlight 4",
+    "genre": "Drama",
+    "rating": 8.2,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_dra_49.jpg"
+  },
+  {
+    "title": "The Lord of the Rings Fellowship",
+    "genre": "Fantasy",
+    "rating": 8.8,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/6oom5QYQ2yQTMJIbnvbkBL9cHo6.jpg"
+  },
+  {
+    "title": "Harry Potter Sorcerers Stone",
+    "genre": "Fantasy",
+    "rating": 7.6,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/wuMc08IPKEatf9rnMNXvIDxqP4W.jpg"
+  },
+  {
+    "title": "The Hobbit Unexpected Journey",
+    "genre": "Fantasy",
+    "rating": 7.8,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/yHA9Fc37VmpUA5UncTxxo3rTGVA.jpg"
+  },
+  {
+    "title": "Fantastic Beasts",
+    "genre": "Fantasy",
+    "rating": 7.3,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/1M91Bt3oGspda75H9eLqYZkJzgO.jpg"
+  },
+  {
+    "title": "Pans Labyrinth",
+    "genre": "Fantasy",
+    "rating": 8.2,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/s8l6rXW9Xl5lF8nK6e7e5Wdl66T.jpg"
+  },
+  {
+    "title": "Stardust",
+    "genre": "Fantasy",
+    "rating": 7.6,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/q5x2Pz9Xz7Z0d3baJQ6jU9Zc4Qh.jpg"
+  },
+  {
+    "title": "The Golden Compass",
+    "genre": "Fantasy",
+    "rating": 6.1,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/6D8H8hW9y7u8YpU5yX9U6p9TfRV.jpg"
+  },
+  {
+    "title": "Alice in Wonderland",
+    "genre": "Fantasy",
+    "rating": 6.4,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/4FYu1AAu14tuBU0lns0hbKiHUcH.jpg"
+  },
+  {
+    "title": "Maleficent",
+    "genre": "Fantasy",
+    "rating": 7.0,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/4FYu1AAu14tuBU0lns0hbKiHUcH.jpg"
+  },
+  {
+    "title": "The Witch",
+    "genre": "Fantasy",
+    "rating": 6.9,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg"
+  },
+  {
+    "title": "Avatar 1",
+    "genre": "Fantasy",
+    "rating": 7.8,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_10.jpg"
+  },
+  {
+    "title": "Aladdin 1",
+    "genre": "Fantasy",
+    "rating": 8.0,
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_11.jpg"
+  },
+  {
+    "title": "Frozen 1",
+    "genre": "Fantasy",
+    "rating": 7.4,
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_12.jpg"
+  },
+  {
+    "title": "Tangled 1",
+    "genre": "Fantasy",
+    "rating": 7.8,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_13.jpg"
+  },
+  {
+    "title": "Moana 1",
+    "genre": "Fantasy",
+    "rating": 7.6,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_14.jpg"
+  },
+  {
+    "title": "Doctor Strange 1",
+    "genre": "Fantasy",
+    "rating": 6.9,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_15.jpg"
+  },
+  {
+    "title": "Thor 1",
+    "genre": "Fantasy",
+    "rating": 6.9,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_16.jpg"
+  },
+  {
+    "title": "Aquaman 1",
+    "genre": "Fantasy",
+    "rating": 6.8,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_17.jpg"
+  },
+  {
+    "title": "Percy Jackson 1",
+    "genre": "Fantasy",
+    "rating": 5.9,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_18.jpg"
+  },
+  {
+    "title": "The Maze Runner 1",
+    "genre": "Fantasy",
+    "rating": 6.9,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_19.jpg"
+  },
+  {
+    "title": "Avatar 2",
+    "genre": "Fantasy",
+    "rating": 7.9,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_20.jpg"
+  },
+  {
+    "title": "Aladdin 2",
+    "genre": "Fantasy",
+    "rating": 7.7,
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_21.jpg"
+  },
+  {
+    "title": "Frozen 2",
+    "genre": "Fantasy",
+    "rating": 7.6,
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_22.jpg"
+  },
+  {
+    "title": "Tangled 2",
+    "genre": "Fantasy",
+    "rating": 7.5,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_23.jpg"
+  },
+  {
+    "title": "Moana 2",
+    "genre": "Fantasy",
+    "rating": 7.7,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_24.jpg"
+  },
+  {
+    "title": "Doctor Strange 2",
+    "genre": "Fantasy",
+    "rating": 7.1,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_25.jpg"
+  },
+  {
+    "title": "Thor 2",
+    "genre": "Fantasy",
+    "rating": 6.6,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_26.jpg"
+  },
+  {
+    "title": "Aquaman 2",
+    "genre": "Fantasy",
+    "rating": 6.5,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_27.jpg"
+  },
+  {
+    "title": "Percy Jackson 2",
+    "genre": "Fantasy",
+    "rating": 6.1,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_28.jpg"
+  },
+  {
+    "title": "The Maze Runner 2",
+    "genre": "Fantasy",
+    "rating": 7.0,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_29.jpg"
+  },
+  {
+    "title": "Avatar 3",
+    "genre": "Fantasy",
+    "rating": 8.0,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_30.jpg"
+  },
+  {
+    "title": "Aladdin 3",
+    "genre": "Fantasy",
+    "rating": 7.8,
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_31.jpg"
+  },
+  {
+    "title": "Frozen 3",
+    "genre": "Fantasy",
+    "rating": 7.5,
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_32.jpg"
+  },
+  {
+    "title": "Tangled 3",
+    "genre": "Fantasy",
+    "rating": 7.7,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_33.jpg"
+  },
+  {
+    "title": "Moana 3",
+    "genre": "Fantasy",
+    "rating": 7.8,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_34.jpg"
+  },
+  {
+    "title": "Doctor Strange 3",
+    "genre": "Fantasy",
+    "rating": 7.0,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_35.jpg"
+  },
+  {
+    "title": "Thor 3",
+    "genre": "Fantasy",
+    "rating": 7.1,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_36.jpg"
+  },
+  {
+    "title": "Aquaman 3",
+    "genre": "Fantasy",
+    "rating": 6.7,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_37.jpg"
+  },
+  {
+    "title": "Percy Jackson 3",
+    "genre": "Fantasy",
+    "rating": 6.0,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_38.jpg"
+  },
+  {
+    "title": "The Maze Runner 3",
+    "genre": "Fantasy",
+    "rating": 6.8,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_39.jpg"
+  },
+  {
+    "title": "Avatar 4",
+    "genre": "Fantasy",
+    "rating": 7.7,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_40.jpg"
+  },
+  {
+    "title": "Aladdin 4",
+    "genre": "Fantasy",
+    "rating": 7.9,
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_41.jpg"
+  },
+  {
+    "title": "Frozen 4",
+    "genre": "Fantasy",
+    "rating": 7.3,
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_42.jpg"
+  },
+  {
+    "title": "Tangled 4",
+    "genre": "Fantasy",
+    "rating": 7.6,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_43.jpg"
+  },
+  {
+    "title": "Moana 4",
+    "genre": "Fantasy",
+    "rating": 7.9,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_44.jpg"
+  },
+  {
+    "title": "Doctor Strange 4",
+    "genre": "Fantasy",
+    "rating": 6.8,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_45.jpg"
+  },
+  {
+    "title": "Thor 4",
+    "genre": "Fantasy",
+    "rating": 7.2,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_46.jpg"
+  },
+  {
+    "title": "Aquaman 4",
+    "genre": "Fantasy",
+    "rating": 6.6,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_47.jpg"
+  },
+  {
+    "title": "Percy Jackson 4",
+    "genre": "Fantasy",
+    "rating": 6.2,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_48.jpg"
+  },
+  {
+    "title": "The Maze Runner 4",
+    "genre": "Fantasy",
+    "rating": 7.1,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/poster_fan_49.jpg"
+  },
+  {
+    "title": "The Ring 11",
+    "genre": "Horror",
+    "rating": 8.0,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_50.jpg"
+  },
+  {
+    "title": "Poltergeist 11",
+    "genre": "Horror",
+    "rating": 8.5,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_51.jpg"
+  },
+  {
+    "title": "Ouija 11",
+    "genre": "Horror",
+    "rating": 6.9,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_52.jpg"
+  },
+  {
+    "title": "Paranormal Activity 11",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_53.jpg"
+  },
+  {
+    "title": "The Descent 11",
+    "genre": "Horror",
+    "rating": 5.9,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_54.jpg"
+  },
+  {
+    "title": "The Ring 12",
+    "genre": "Horror",
+    "rating": 8.0,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_55.jpg"
+  },
+  {
+    "title": "Poltergeist 12",
+    "genre": "Horror",
+    "rating": 7.4,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_56.jpg"
+  },
+  {
+    "title": "Ouija 12",
+    "genre": "Horror",
+    "rating": 8.3,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_57.jpg"
+  },
+  {
+    "title": "Paranormal Activity 12",
+    "genre": "Horror",
+    "rating": 6.0,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_58.jpg"
+  },
+  {
+    "title": "The Descent 12",
+    "genre": "Horror",
+    "rating": 8.2,
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_59.jpg"
+  },
+  {
+    "title": "The Ring 13",
+    "genre": "Horror",
+    "rating": 8.7,
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_60.jpg"
+  },
+  {
+    "title": "Poltergeist 13",
+    "genre": "Horror",
+    "rating": 6.5,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_61.jpg"
+  },
+  {
+    "title": "Ouija 13",
+    "genre": "Horror",
+    "rating": 6.7,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_62.jpg"
+  },
+  {
+    "title": "Paranormal Activity 13",
+    "genre": "Horror",
+    "rating": 8.0,
+    "year": 1983,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_63.jpg"
+  },
+  {
+    "title": "The Descent 13",
+    "genre": "Horror",
+    "rating": 7.1,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_64.jpg"
+  },
+  {
+    "title": "The Ring 14",
+    "genre": "Horror",
+    "rating": 6.0,
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_65.jpg"
+  },
+  {
+    "title": "Poltergeist 14",
+    "genre": "Horror",
+    "rating": 8.9,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_66.jpg"
+  },
+  {
+    "title": "Ouija 14",
+    "genre": "Horror",
+    "rating": 8.8,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_67.jpg"
+  },
+  {
+    "title": "Paranormal Activity 14",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_68.jpg"
+  },
+  {
+    "title": "The Descent 14",
+    "genre": "Horror",
+    "rating": 5.8,
+    "year": 1985,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_69.jpg"
+  },
+  {
+    "title": "The Ring 15",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_70.jpg"
+  },
+  {
+    "title": "Poltergeist 15",
+    "genre": "Horror",
+    "rating": 8.7,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_71.jpg"
+  },
+  {
+    "title": "Ouija 15",
+    "genre": "Horror",
+    "rating": 5.9,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_72.jpg"
+  },
+  {
+    "title": "Paranormal Activity 15",
+    "genre": "Horror",
+    "rating": 8.4,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_73.jpg"
+  },
+  {
+    "title": "The Descent 15",
+    "genre": "Horror",
+    "rating": 5.9,
+    "year": 1983,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_74.jpg"
+  },
+  {
+    "title": "The Ring 16",
+    "genre": "Horror",
+    "rating": 6.0,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_75.jpg"
+  },
+  {
+    "title": "Poltergeist 16",
+    "genre": "Horror",
+    "rating": 8.1,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_76.jpg"
+  },
+  {
+    "title": "Ouija 16",
+    "genre": "Horror",
+    "rating": 6.7,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_77.jpg"
+  },
+  {
+    "title": "Paranormal Activity 16",
+    "genre": "Horror",
+    "rating": 6.7,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_78.jpg"
+  },
+  {
+    "title": "The Descent 16",
+    "genre": "Horror",
+    "rating": 8.5,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_79.jpg"
+  },
+  {
+    "title": "The Ring 17",
+    "genre": "Horror",
+    "rating": 8.1,
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_80.jpg"
+  },
+  {
+    "title": "Poltergeist 17",
+    "genre": "Horror",
+    "rating": 7.8,
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_81.jpg"
+  },
+  {
+    "title": "Ouija 17",
+    "genre": "Horror",
+    "rating": 7.7,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_82.jpg"
+  },
+  {
+    "title": "Paranormal Activity 17",
+    "genre": "Horror",
+    "rating": 9.1,
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_83.jpg"
+  },
+  {
+    "title": "The Descent 17",
+    "genre": "Horror",
+    "rating": 7.3,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_84.jpg"
+  },
+  {
+    "title": "The Ring 18",
+    "genre": "Horror",
+    "rating": 6.3,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_85.jpg"
+  },
+  {
+    "title": "Poltergeist 18",
+    "genre": "Horror",
+    "rating": 8.6,
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_86.jpg"
+  },
+  {
+    "title": "Ouija 18",
+    "genre": "Horror",
+    "rating": 8.2,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_87.jpg"
+  },
+  {
+    "title": "Paranormal Activity 18",
+    "genre": "Horror",
+    "rating": 5.9,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_88.jpg"
+  },
+  {
+    "title": "The Descent 18",
+    "genre": "Horror",
+    "rating": 7.6,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_89.jpg"
+  },
+  {
+    "title": "The Ring 19",
+    "genre": "Horror",
+    "rating": 7.8,
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_90.jpg"
+  },
+  {
+    "title": "Poltergeist 19",
+    "genre": "Horror",
+    "rating": 8.9,
+    "year": 1983,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_91.jpg"
+  },
+  {
+    "title": "Ouija 19",
+    "genre": "Horror",
+    "rating": 7.6,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_92.jpg"
+  },
+  {
+    "title": "Paranormal Activity 19",
+    "genre": "Horror",
+    "rating": 8.4,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_93.jpg"
+  },
+  {
+    "title": "The Descent 19",
+    "genre": "Horror",
+    "rating": 8.8,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_94.jpg"
+  },
+  {
+    "title": "The Ring 20",
+    "genre": "Horror",
+    "rating": 6.7,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_95.jpg"
+  },
+  {
+    "title": "Poltergeist 20",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_96.jpg"
+  },
+  {
+    "title": "Ouija 20",
+    "genre": "Horror",
+    "rating": 6.4,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_97.jpg"
+  },
+  {
+    "title": "Paranormal Activity 20",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_98.jpg"
+  },
+  {
+    "title": "The Descent 20",
+    "genre": "Horror",
+    "rating": 5.6,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_99.jpg"
+  },
+  {
+    "title": "The Ring 21",
+    "genre": "Horror",
+    "rating": 6.6,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_100.jpg"
+  },
+  {
+    "title": "Poltergeist 21",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_101.jpg"
+  },
+  {
+    "title": "Ouija 21",
+    "genre": "Horror",
+    "rating": 6.8,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_102.jpg"
+  },
+  {
+    "title": "Paranormal Activity 21",
+    "genre": "Horror",
+    "rating": 7.2,
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_103.jpg"
+  },
+  {
+    "title": "The Descent 21",
+    "genre": "Horror",
+    "rating": 7.6,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_104.jpg"
+  },
+  {
+    "title": "The Ring 22",
+    "genre": "Horror",
+    "rating": 6.7,
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_105.jpg"
+  },
+  {
+    "title": "Poltergeist 22",
+    "genre": "Horror",
+    "rating": 6.0,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_106.jpg"
+  },
+  {
+    "title": "Ouija 22",
+    "genre": "Horror",
+    "rating": 7.4,
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_107.jpg"
+  },
+  {
+    "title": "Paranormal Activity 22",
+    "genre": "Horror",
+    "rating": 8.8,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_108.jpg"
+  },
+  {
+    "title": "The Descent 22",
+    "genre": "Horror",
+    "rating": 7.4,
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Horror_109.jpg"
+  },
+  {
+    "title": "Avatar 11",
+    "genre": "Fantasy",
+    "rating": 5.9,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_50.jpg"
+  },
+  {
+    "title": "Aladdin 11",
+    "genre": "Fantasy",
+    "rating": 8.9,
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_51.jpg"
+  },
+  {
+    "title": "Frozen 11",
+    "genre": "Fantasy",
+    "rating": 6.6,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_52.jpg"
+  },
+  {
+    "title": "Tangled 11",
+    "genre": "Fantasy",
+    "rating": 7.6,
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_53.jpg"
+  },
+  {
+    "title": "Moana 11",
+    "genre": "Fantasy",
+    "rating": 8.1,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_54.jpg"
+  },
+  {
+    "title": "Avatar 12",
+    "genre": "Fantasy",
+    "rating": 7.5,
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_55.jpg"
+  },
+  {
+    "title": "Aladdin 12",
+    "genre": "Fantasy",
+    "rating": 6.0,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_56.jpg"
+  },
+  {
+    "title": "Frozen 12",
+    "genre": "Fantasy",
+    "rating": 7.4,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_57.jpg"
+  },
+  {
+    "title": "Tangled 12",
+    "genre": "Fantasy",
+    "rating": 5.9,
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_58.jpg"
+  },
+  {
+    "title": "Moana 12",
+    "genre": "Fantasy",
+    "rating": 7.1,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_59.jpg"
+  },
+  {
+    "title": "Avatar 13",
+    "genre": "Fantasy",
+    "rating": 6.0,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_60.jpg"
+  },
+  {
+    "title": "Aladdin 13",
+    "genre": "Fantasy",
+    "rating": 8.1,
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_61.jpg"
+  },
+  {
+    "title": "Frozen 13",
+    "genre": "Fantasy",
+    "rating": 8.7,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_62.jpg"
+  },
+  {
+    "title": "Tangled 13",
+    "genre": "Fantasy",
+    "rating": 8.4,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_63.jpg"
+  },
+  {
+    "title": "Moana 13",
+    "genre": "Fantasy",
+    "rating": 6.1,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_64.jpg"
+  },
+  {
+    "title": "Avatar 14",
+    "genre": "Fantasy",
+    "rating": 9.0,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_65.jpg"
+  },
+  {
+    "title": "Aladdin 14",
+    "genre": "Fantasy",
+    "rating": 6.8,
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_66.jpg"
+  },
+  {
+    "title": "Frozen 14",
+    "genre": "Fantasy",
+    "rating": 6.8,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_67.jpg"
+  },
+  {
+    "title": "Tangled 14",
+    "genre": "Fantasy",
+    "rating": 6.9,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_68.jpg"
+  },
+  {
+    "title": "Moana 14",
+    "genre": "Fantasy",
+    "rating": 6.9,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_69.jpg"
+  },
+  {
+    "title": "Avatar 15",
+    "genre": "Fantasy",
+    "rating": 7.3,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_70.jpg"
+  },
+  {
+    "title": "Aladdin 15",
+    "genre": "Fantasy",
+    "rating": 7.2,
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_71.jpg"
+  },
+  {
+    "title": "Frozen 15",
+    "genre": "Fantasy",
+    "rating": 5.9,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_72.jpg"
+  },
+  {
+    "title": "Tangled 15",
+    "genre": "Fantasy",
+    "rating": 8.3,
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_73.jpg"
+  },
+  {
+    "title": "Moana 15",
+    "genre": "Fantasy",
+    "rating": 8.5,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_74.jpg"
+  },
+  {
+    "title": "Avatar 16",
+    "genre": "Fantasy",
+    "rating": 6.5,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_75.jpg"
+  },
+  {
+    "title": "Aladdin 16",
+    "genre": "Fantasy",
+    "rating": 6.4,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_76.jpg"
+  },
+  {
+    "title": "Frozen 16",
+    "genre": "Fantasy",
+    "rating": 8.7,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_77.jpg"
+  },
+  {
+    "title": "Tangled 16",
+    "genre": "Fantasy",
+    "rating": 7.5,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_78.jpg"
+  },
+  {
+    "title": "Moana 16",
+    "genre": "Fantasy",
+    "rating": 8.7,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_79.jpg"
+  },
+  {
+    "title": "Avatar 17",
+    "genre": "Fantasy",
+    "rating": 8.3,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_80.jpg"
+  },
+  {
+    "title": "Aladdin 17",
+    "genre": "Fantasy",
+    "rating": 7.7,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_81.jpg"
+  },
+  {
+    "title": "Frozen 17",
+    "genre": "Fantasy",
+    "rating": 6.3,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_82.jpg"
+  },
+  {
+    "title": "Tangled 17",
+    "genre": "Fantasy",
+    "rating": 8.0,
+    "year": 1985,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_83.jpg"
+  },
+  {
+    "title": "Moana 17",
+    "genre": "Fantasy",
+    "rating": 7.6,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_84.jpg"
+  },
+  {
+    "title": "Avatar 18",
+    "genre": "Fantasy",
+    "rating": 6.4,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_85.jpg"
+  },
+  {
+    "title": "Aladdin 18",
+    "genre": "Fantasy",
+    "rating": 9.2,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_86.jpg"
+  },
+  {
+    "title": "Frozen 18",
+    "genre": "Fantasy",
+    "rating": 7.1,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_87.jpg"
+  },
+  {
+    "title": "Tangled 18",
+    "genre": "Fantasy",
+    "rating": 7.7,
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_88.jpg"
+  },
+  {
+    "title": "Moana 18",
+    "genre": "Fantasy",
+    "rating": 8.4,
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_89.jpg"
+  },
+  {
+    "title": "Avatar 19",
+    "genre": "Fantasy",
+    "rating": 7.4,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_90.jpg"
+  },
+  {
+    "title": "Aladdin 19",
+    "genre": "Fantasy",
+    "rating": 7.3,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_91.jpg"
+  },
+  {
+    "title": "Frozen 19",
+    "genre": "Fantasy",
+    "rating": 8.5,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_92.jpg"
+  },
+  {
+    "title": "Tangled 19",
+    "genre": "Fantasy",
+    "rating": 5.9,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_93.jpg"
+  },
+  {
+    "title": "Moana 19",
+    "genre": "Fantasy",
+    "rating": 8.9,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_94.jpg"
+  },
+  {
+    "title": "Avatar 20",
+    "genre": "Fantasy",
+    "rating": 5.7,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_95.jpg"
+  },
+  {
+    "title": "Aladdin 20",
+    "genre": "Fantasy",
+    "rating": 7.4,
+    "year": 1983,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_96.jpg"
+  },
+  {
+    "title": "Frozen 20",
+    "genre": "Fantasy",
+    "rating": 6.4,
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_97.jpg"
+  },
+  {
+    "title": "Tangled 20",
+    "genre": "Fantasy",
+    "rating": 6.0,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_98.jpg"
+  },
+  {
+    "title": "Moana 20",
+    "genre": "Fantasy",
+    "rating": 8.5,
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_99.jpg"
+  },
+  {
+    "title": "Avatar 21",
+    "genre": "Fantasy",
+    "rating": 9.1,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_100.jpg"
+  },
+  {
+    "title": "Aladdin 21",
+    "genre": "Fantasy",
+    "rating": 5.8,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_101.jpg"
+  },
+  {
+    "title": "Frozen 21",
+    "genre": "Fantasy",
+    "rating": 6.3,
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_102.jpg"
+  },
+  {
+    "title": "Tangled 21",
+    "genre": "Fantasy",
+    "rating": 6.0,
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_103.jpg"
+  },
+  {
+    "title": "Moana 21",
+    "genre": "Fantasy",
+    "rating": 7.8,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_104.jpg"
+  },
+  {
+    "title": "Avatar 22",
+    "genre": "Fantasy",
+    "rating": 5.8,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_105.jpg"
+  },
+  {
+    "title": "Aladdin 22",
+    "genre": "Fantasy",
+    "rating": 7.1,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_106.jpg"
+  },
+  {
+    "title": "Frozen 22",
+    "genre": "Fantasy",
+    "rating": 8.7,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_107.jpg"
+  },
+  {
+    "title": "Tangled 22",
+    "genre": "Fantasy",
+    "rating": 6.0,
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_108.jpg"
+  },
+  {
+    "title": "Moana 22",
+    "genre": "Fantasy",
+    "rating": 7.4,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Fantasy_109.jpg"
+  },
+  {
+    "title": "Anchorman 11",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_50.jpg"
+  },
+  {
+    "title": "Old School 11",
+    "genre": "Comedy",
+    "rating": 8.9,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_51.jpg"
+  },
+  {
+    "title": "Wedding Crashers 11",
+    "genre": "Comedy",
+    "rating": 8.3,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_52.jpg"
+  },
+  {
+    "title": "Meet the Parents 11",
+    "genre": "Comedy",
+    "rating": 7.7,
+    "year": 2013,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_53.jpg"
+  },
+  {
+    "title": "Bridesmaids 11",
+    "genre": "Comedy",
+    "rating": 8.6,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_54.jpg"
+  },
+  {
+    "title": "Anchorman 12",
+    "genre": "Comedy",
+    "rating": 8.3,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_55.jpg"
+  },
+  {
+    "title": "Old School 12",
+    "genre": "Comedy",
+    "rating": 5.6,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_56.jpg"
+  },
+  {
+    "title": "Wedding Crashers 12",
+    "genre": "Comedy",
+    "rating": 6.6,
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_57.jpg"
+  },
+  {
+    "title": "Meet the Parents 12",
+    "genre": "Comedy",
+    "rating": 8.2,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_58.jpg"
+  },
+  {
+    "title": "Bridesmaids 12",
+    "genre": "Comedy",
+    "rating": 8.5,
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_59.jpg"
+  },
+  {
+    "title": "Anchorman 13",
+    "genre": "Comedy",
+    "rating": 8.0,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_60.jpg"
+  },
+  {
+    "title": "Old School 13",
+    "genre": "Comedy",
+    "rating": 8.4,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_61.jpg"
+  },
+  {
+    "title": "Wedding Crashers 13",
+    "genre": "Comedy",
+    "rating": 8.5,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_62.jpg"
+  },
+  {
+    "title": "Meet the Parents 13",
+    "genre": "Comedy",
+    "rating": 8.2,
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_63.jpg"
+  },
+  {
+    "title": "Bridesmaids 13",
+    "genre": "Comedy",
+    "rating": 7.5,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_64.jpg"
+  },
+  {
+    "title": "Anchorman 14",
+    "genre": "Comedy",
+    "rating": 7.7,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_65.jpg"
+  },
+  {
+    "title": "Old School 14",
+    "genre": "Comedy",
+    "rating": 5.8,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_66.jpg"
+  },
+  {
+    "title": "Wedding Crashers 14",
+    "genre": "Comedy",
+    "rating": 8.9,
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_67.jpg"
+  },
+  {
+    "title": "Meet the Parents 14",
+    "genre": "Comedy",
+    "rating": 6.4,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_68.jpg"
+  },
+  {
+    "title": "Bridesmaids 14",
+    "genre": "Comedy",
+    "rating": 7.7,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_69.jpg"
+  },
+  {
+    "title": "Anchorman 15",
+    "genre": "Comedy",
+    "rating": 6.5,
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_70.jpg"
+  },
+  {
+    "title": "Old School 15",
+    "genre": "Comedy",
+    "rating": 5.8,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_71.jpg"
+  },
+  {
+    "title": "Wedding Crashers 15",
+    "genre": "Comedy",
+    "rating": 6.7,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_72.jpg"
+  },
+  {
+    "title": "Meet the Parents 15",
+    "genre": "Comedy",
+    "rating": 6.7,
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_73.jpg"
+  },
+  {
+    "title": "Bridesmaids 15",
+    "genre": "Comedy",
+    "rating": 8.2,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_74.jpg"
+  },
+  {
+    "title": "Anchorman 16",
+    "genre": "Comedy",
+    "rating": 8.5,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_75.jpg"
+  },
+  {
+    "title": "Old School 16",
+    "genre": "Comedy",
+    "rating": 7.0,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_76.jpg"
+  },
+  {
+    "title": "Wedding Crashers 16",
+    "genre": "Comedy",
+    "rating": 6.6,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_77.jpg"
+  },
+  {
+    "title": "Meet the Parents 16",
+    "genre": "Comedy",
+    "rating": 6.7,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_78.jpg"
+  },
+  {
+    "title": "Bridesmaids 16",
+    "genre": "Comedy",
+    "rating": 6.2,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_79.jpg"
+  },
+  {
+    "title": "Anchorman 17",
+    "genre": "Comedy",
+    "rating": 7.3,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_80.jpg"
+  },
+  {
+    "title": "Old School 17",
+    "genre": "Comedy",
+    "rating": 5.9,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_81.jpg"
+  },
+  {
+    "title": "Wedding Crashers 17",
+    "genre": "Comedy",
+    "rating": 5.7,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_82.jpg"
+  },
+  {
+    "title": "Meet the Parents 17",
+    "genre": "Comedy",
+    "rating": 8.1,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_83.jpg"
+  },
+  {
+    "title": "Bridesmaids 17",
+    "genre": "Comedy",
+    "rating": 6.4,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_84.jpg"
+  },
+  {
+    "title": "Anchorman 18",
+    "genre": "Comedy",
+    "rating": 7.9,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_85.jpg"
+  },
+  {
+    "title": "Old School 18",
+    "genre": "Comedy",
+    "rating": 8.8,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_86.jpg"
+  },
+  {
+    "title": "Wedding Crashers 18",
+    "genre": "Comedy",
+    "rating": 5.9,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_87.jpg"
+  },
+  {
+    "title": "Meet the Parents 18",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_88.jpg"
+  },
+  {
+    "title": "Bridesmaids 18",
+    "genre": "Comedy",
+    "rating": 7.0,
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_89.jpg"
+  },
+  {
+    "title": "Anchorman 19",
+    "genre": "Comedy",
+    "rating": 6.9,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_90.jpg"
+  },
+  {
+    "title": "Old School 19",
+    "genre": "Comedy",
+    "rating": 5.6,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_91.jpg"
+  },
+  {
+    "title": "Wedding Crashers 19",
+    "genre": "Comedy",
+    "rating": 7.0,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_92.jpg"
+  },
+  {
+    "title": "Meet the Parents 19",
+    "genre": "Comedy",
+    "rating": 7.5,
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_93.jpg"
+  },
+  {
+    "title": "Bridesmaids 19",
+    "genre": "Comedy",
+    "rating": 8.4,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_94.jpg"
+  },
+  {
+    "title": "Anchorman 20",
+    "genre": "Comedy",
+    "rating": 5.9,
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_95.jpg"
+  },
+  {
+    "title": "Old School 20",
+    "genre": "Comedy",
+    "rating": 9.0,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_96.jpg"
+  },
+  {
+    "title": "Wedding Crashers 20",
+    "genre": "Comedy",
+    "rating": 5.7,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_97.jpg"
+  },
+  {
+    "title": "Meet the Parents 20",
+    "genre": "Comedy",
+    "rating": 8.5,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_98.jpg"
+  },
+  {
+    "title": "Bridesmaids 20",
+    "genre": "Comedy",
+    "rating": 7.2,
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_99.jpg"
+  },
+  {
+    "title": "Anchorman 21",
+    "genre": "Comedy",
+    "rating": 9.2,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_100.jpg"
+  },
+  {
+    "title": "Old School 21",
+    "genre": "Comedy",
+    "rating": 6.1,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_101.jpg"
+  },
+  {
+    "title": "Wedding Crashers 21",
+    "genre": "Comedy",
+    "rating": 7.1,
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_102.jpg"
+  },
+  {
+    "title": "Meet the Parents 21",
+    "genre": "Comedy",
+    "rating": 6.3,
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_103.jpg"
+  },
+  {
+    "title": "Bridesmaids 21",
+    "genre": "Comedy",
+    "rating": 7.8,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_104.jpg"
+  },
+  {
+    "title": "Anchorman 22",
+    "genre": "Comedy",
+    "rating": 8.9,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_105.jpg"
+  },
+  {
+    "title": "Old School 22",
+    "genre": "Comedy",
+    "rating": 8.5,
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_106.jpg"
+  },
+  {
+    "title": "Wedding Crashers 22",
+    "genre": "Comedy",
+    "rating": 8.8,
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_107.jpg"
+  },
+  {
+    "title": "Meet the Parents 22",
+    "genre": "Comedy",
+    "rating": 6.0,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_108.jpg"
+  },
+  {
+    "title": "Bridesmaids 22",
+    "genre": "Comedy",
+    "rating": 7.6,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Comedy_109.jpg"
+  },
+  {
+    "title": "The Godfather 11",
+    "genre": "Drama",
+    "rating": 6.3,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_50.jpg"
+  },
+  {
+    "title": "Inception 11",
+    "genre": "Drama",
+    "rating": 7.5,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_51.jpg"
+  },
+  {
+    "title": "Pulp Fiction 11",
+    "genre": "Drama",
+    "rating": 8.7,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_52.jpg"
+  },
+  {
+    "title": "Goodfellas 11",
+    "genre": "Drama",
+    "rating": 6.3,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_53.jpg"
+  },
+  {
+    "title": "No Country 11",
+    "genre": "Drama",
+    "rating": 7.8,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_54.jpg"
+  },
+  {
+    "title": "The Godfather 12",
+    "genre": "Drama",
+    "rating": 6.7,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_55.jpg"
+  },
+  {
+    "title": "Inception 12",
+    "genre": "Drama",
+    "rating": 9.2,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_56.jpg"
+  },
+  {
+    "title": "Pulp Fiction 12",
+    "genre": "Drama",
+    "rating": 7.7,
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_57.jpg"
+  },
+  {
+    "title": "Goodfellas 12",
+    "genre": "Drama",
+    "rating": 8.2,
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_58.jpg"
+  },
+  {
+    "title": "No Country 12",
+    "genre": "Drama",
+    "rating": 8.7,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_59.jpg"
+  },
+  {
+    "title": "The Godfather 13",
+    "genre": "Drama",
+    "rating": 7.8,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_60.jpg"
+  },
+  {
+    "title": "Inception 13",
+    "genre": "Drama",
+    "rating": 6.4,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_61.jpg"
+  },
+  {
+    "title": "Pulp Fiction 13",
+    "genre": "Drama",
+    "rating": 8.9,
+    "year": 2010,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_62.jpg"
+  },
+  {
+    "title": "Goodfellas 13",
+    "genre": "Drama",
+    "rating": 7.6,
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_63.jpg"
+  },
+  {
+    "title": "No Country 13",
+    "genre": "Drama",
+    "rating": 6.8,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_64.jpg"
+  },
+  {
+    "title": "The Godfather 14",
+    "genre": "Drama",
+    "rating": 6.4,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_65.jpg"
+  },
+  {
+    "title": "Inception 14",
+    "genre": "Drama",
+    "rating": 6.6,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_66.jpg"
+  },
+  {
+    "title": "Pulp Fiction 14",
+    "genre": "Drama",
+    "rating": 7.5,
+    "year": 1985,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_67.jpg"
+  },
+  {
+    "title": "Goodfellas 14",
+    "genre": "Drama",
+    "rating": 5.7,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_68.jpg"
+  },
+  {
+    "title": "No Country 14",
+    "genre": "Drama",
+    "rating": 6.7,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_69.jpg"
+  },
+  {
+    "title": "The Godfather 15",
+    "genre": "Drama",
+    "rating": 8.0,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_70.jpg"
+  },
+  {
+    "title": "Inception 15",
+    "genre": "Drama",
+    "rating": 7.9,
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_71.jpg"
+  },
+  {
+    "title": "Pulp Fiction 15",
+    "genre": "Drama",
+    "rating": 9.0,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_72.jpg"
+  },
+  {
+    "title": "Goodfellas 15",
+    "genre": "Drama",
+    "rating": 6.2,
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_73.jpg"
+  },
+  {
+    "title": "No Country 15",
+    "genre": "Drama",
+    "rating": 8.6,
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_74.jpg"
+  },
+  {
+    "title": "The Godfather 16",
+    "genre": "Drama",
+    "rating": 8.3,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_75.jpg"
+  },
+  {
+    "title": "Inception 16",
+    "genre": "Drama",
+    "rating": 6.5,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_76.jpg"
+  },
+  {
+    "title": "Pulp Fiction 16",
+    "genre": "Drama",
+    "rating": 5.6,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_77.jpg"
+  },
+  {
+    "title": "Goodfellas 16",
+    "genre": "Drama",
+    "rating": 5.6,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_78.jpg"
+  },
+  {
+    "title": "No Country 16",
+    "genre": "Drama",
+    "rating": 7.6,
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_79.jpg"
+  },
+  {
+    "title": "The Godfather 17",
+    "genre": "Drama",
+    "rating": 6.9,
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_80.jpg"
+  },
+  {
+    "title": "Inception 17",
+    "genre": "Drama",
+    "rating": 7.7,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_81.jpg"
+  },
+  {
+    "title": "Pulp Fiction 17",
+    "genre": "Drama",
+    "rating": 8.4,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_82.jpg"
+  },
+  {
+    "title": "Goodfellas 17",
+    "genre": "Drama",
+    "rating": 9.1,
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_83.jpg"
+  },
+  {
+    "title": "No Country 17",
+    "genre": "Drama",
+    "rating": 5.7,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_84.jpg"
+  },
+  {
+    "title": "The Godfather 18",
+    "genre": "Drama",
+    "rating": 8.5,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_85.jpg"
+  },
+  {
+    "title": "Inception 18",
+    "genre": "Drama",
+    "rating": 8.0,
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_86.jpg"
+  },
+  {
+    "title": "Pulp Fiction 18",
+    "genre": "Drama",
+    "rating": 6.6,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_87.jpg"
+  },
+  {
+    "title": "Goodfellas 18",
+    "genre": "Drama",
+    "rating": 7.3,
+    "year": 1983,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_88.jpg"
+  },
+  {
+    "title": "No Country 18",
+    "genre": "Drama",
+    "rating": 9.0,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_89.jpg"
+  },
+  {
+    "title": "The Godfather 19",
+    "genre": "Drama",
+    "rating": 8.7,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_90.jpg"
+  },
+  {
+    "title": "Inception 19",
+    "genre": "Drama",
+    "rating": 6.4,
+    "year": 2004,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_91.jpg"
+  },
+  {
+    "title": "Pulp Fiction 19",
+    "genre": "Drama",
+    "rating": 8.6,
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_92.jpg"
+  },
+  {
+    "title": "Goodfellas 19",
+    "genre": "Drama",
+    "rating": 6.1,
+    "year": 1985,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_93.jpg"
+  },
+  {
+    "title": "No Country 19",
+    "genre": "Drama",
+    "rating": 7.4,
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_94.jpg"
+  },
+  {
+    "title": "The Godfather 20",
+    "genre": "Drama",
+    "rating": 6.1,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_95.jpg"
+  },
+  {
+    "title": "Inception 20",
+    "genre": "Drama",
+    "rating": 8.7,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_96.jpg"
+  },
+  {
+    "title": "Pulp Fiction 20",
+    "genre": "Drama",
+    "rating": 6.0,
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_97.jpg"
+  },
+  {
+    "title": "Goodfellas 20",
+    "genre": "Drama",
+    "rating": 8.6,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_98.jpg"
+  },
+  {
+    "title": "No Country 20",
+    "genre": "Drama",
+    "rating": 8.8,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_99.jpg"
+  },
+  {
+    "title": "The Godfather 21",
+    "genre": "Drama",
+    "rating": 7.8,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_100.jpg"
+  },
+  {
+    "title": "Inception 21",
+    "genre": "Drama",
+    "rating": 7.2,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_101.jpg"
+  },
+  {
+    "title": "Pulp Fiction 21",
+    "genre": "Drama",
+    "rating": 9.0,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_102.jpg"
+  },
+  {
+    "title": "Goodfellas 21",
+    "genre": "Drama",
+    "rating": 6.3,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_103.jpg"
+  },
+  {
+    "title": "No Country 21",
+    "genre": "Drama",
+    "rating": 6.7,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_104.jpg"
+  },
+  {
+    "title": "The Godfather 22",
+    "genre": "Drama",
+    "rating": 6.6,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_105.jpg"
+  },
+  {
+    "title": "Inception 22",
+    "genre": "Drama",
+    "rating": 8.4,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_106.jpg"
+  },
+  {
+    "title": "Pulp Fiction 22",
+    "genre": "Drama",
+    "rating": 6.5,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_107.jpg"
+  },
+  {
+    "title": "Goodfellas 22",
+    "genre": "Drama",
+    "rating": 7.0,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_108.jpg"
+  },
+  {
+    "title": "No Country 22",
+    "genre": "Drama",
+    "rating": 5.9,
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Drama_109.jpg"
+  },
+  {
+    "title": "Mission Impossible 11",
+    "genre": "Action",
+    "rating": 6.8,
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_50.jpg"
+  },
+  {
+    "title": "Fast & Furious 11",
+    "genre": "Action",
+    "rating": 6.3,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_51.jpg"
+  },
+  {
+    "title": "Bourne 11",
+    "genre": "Action",
+    "rating": 6.1,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_52.jpg"
+  },
+  {
+    "title": "Kingsman 11",
+    "genre": "Action",
+    "rating": 6.9,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_53.jpg"
+  },
+  {
+    "title": "XXX 11",
+    "genre": "Action",
+    "rating": 5.7,
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_54.jpg"
+  },
+  {
+    "title": "Mission Impossible 12",
+    "genre": "Action",
+    "rating": 6.3,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_55.jpg"
+  },
+  {
+    "title": "Fast & Furious 12",
+    "genre": "Action",
+    "rating": 8.8,
+    "year": 1987,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_56.jpg"
+  },
+  {
+    "title": "Bourne 12",
+    "genre": "Action",
+    "rating": 5.7,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_57.jpg"
+  },
+  {
+    "title": "Kingsman 12",
+    "genre": "Action",
+    "rating": 9.0,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_58.jpg"
+  },
+  {
+    "title": "XXX 12",
+    "genre": "Action",
+    "rating": 8.9,
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_59.jpg"
+  },
+  {
+    "title": "Mission Impossible 13",
+    "genre": "Action",
+    "rating": 8.7,
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_60.jpg"
+  },
+  {
+    "title": "Fast & Furious 13",
+    "genre": "Action",
+    "rating": 5.6,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_61.jpg"
+  },
+  {
+    "title": "Bourne 13",
+    "genre": "Action",
+    "rating": 6.5,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_62.jpg"
+  },
+  {
+    "title": "Kingsman 13",
+    "genre": "Action",
+    "rating": 9.1,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_63.jpg"
+  },
+  {
+    "title": "XXX 13",
+    "genre": "Action",
+    "rating": 8.6,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_64.jpg"
+  },
+  {
+    "title": "Mission Impossible 14",
+    "genre": "Action",
+    "rating": 8.9,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_65.jpg"
+  },
+  {
+    "title": "Fast & Furious 14",
+    "genre": "Action",
+    "rating": 8.2,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_66.jpg"
+  },
+  {
+    "title": "Bourne 14",
+    "genre": "Action",
+    "rating": 8.0,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_67.jpg"
+  },
+  {
+    "title": "Kingsman 14",
+    "genre": "Action",
+    "rating": 7.5,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_68.jpg"
+  },
+  {
+    "title": "XXX 14",
+    "genre": "Action",
+    "rating": 8.0,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_69.jpg"
+  },
+  {
+    "title": "Mission Impossible 15",
+    "genre": "Action",
+    "rating": 5.9,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_70.jpg"
+  },
+  {
+    "title": "Fast & Furious 15",
+    "genre": "Action",
+    "rating": 7.7,
+    "year": 2012,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_71.jpg"
+  },
+  {
+    "title": "Bourne 15",
+    "genre": "Action",
+    "rating": 9.1,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_72.jpg"
+  },
+  {
+    "title": "Kingsman 15",
+    "genre": "Action",
+    "rating": 6.5,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_73.jpg"
+  },
+  {
+    "title": "XXX 15",
+    "genre": "Action",
+    "rating": 6.5,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_74.jpg"
+  },
+  {
+    "title": "Mission Impossible 16",
+    "genre": "Action",
+    "rating": 5.7,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_75.jpg"
+  },
+  {
+    "title": "Fast & Furious 16",
+    "genre": "Action",
+    "rating": 7.1,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_76.jpg"
+  },
+  {
+    "title": "Bourne 16",
+    "genre": "Action",
+    "rating": 9.1,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_77.jpg"
+  },
+  {
+    "title": "Kingsman 16",
+    "genre": "Action",
+    "rating": 8.4,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_78.jpg"
+  },
+  {
+    "title": "XXX 16",
+    "genre": "Action",
+    "rating": 6.8,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_79.jpg"
+  },
+  {
+    "title": "Mission Impossible 17",
+    "genre": "Action",
+    "rating": 8.9,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_80.jpg"
+  },
+  {
+    "title": "Fast & Furious 17",
+    "genre": "Action",
+    "rating": 6.5,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_81.jpg"
+  },
+  {
+    "title": "Bourne 17",
+    "genre": "Action",
+    "rating": 9.2,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_82.jpg"
+  },
+  {
+    "title": "Kingsman 17",
+    "genre": "Action",
+    "rating": 8.6,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_83.jpg"
+  },
+  {
+    "title": "XXX 17",
+    "genre": "Action",
+    "rating": 5.6,
+    "year": 1990,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_84.jpg"
+  },
+  {
+    "title": "Mission Impossible 18",
+    "genre": "Action",
+    "rating": 8.3,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_85.jpg"
+  },
+  {
+    "title": "Fast & Furious 18",
+    "genre": "Action",
+    "rating": 8.0,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_86.jpg"
+  },
+  {
+    "title": "Bourne 18",
+    "genre": "Action",
+    "rating": 6.5,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_87.jpg"
+  },
+  {
+    "title": "Kingsman 18",
+    "genre": "Action",
+    "rating": 7.1,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_88.jpg"
+  },
+  {
+    "title": "XXX 18",
+    "genre": "Action",
+    "rating": 5.9,
+    "year": 2002,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_89.jpg"
+  },
+  {
+    "title": "Mission Impossible 19",
+    "genre": "Action",
+    "rating": 8.5,
+    "year": 1988,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_90.jpg"
+  },
+  {
+    "title": "Fast & Furious 19",
+    "genre": "Action",
+    "rating": 6.9,
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_91.jpg"
+  },
+  {
+    "title": "Bourne 19",
+    "genre": "Action",
+    "rating": 7.0,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_92.jpg"
+  },
+  {
+    "title": "Kingsman 19",
+    "genre": "Action",
+    "rating": 5.6,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_93.jpg"
+  },
+  {
+    "title": "XXX 19",
+    "genre": "Action",
+    "rating": 5.8,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_94.jpg"
+  },
+  {
+    "title": "Mission Impossible 20",
+    "genre": "Action",
+    "rating": 8.7,
+    "year": 2011,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_95.jpg"
+  },
+  {
+    "title": "Fast & Furious 20",
+    "genre": "Action",
+    "rating": 7.2,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_96.jpg"
+  },
+  {
+    "title": "Bourne 20",
+    "genre": "Action",
+    "rating": 5.6,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_97.jpg"
+  },
+  {
+    "title": "Kingsman 20",
+    "genre": "Action",
+    "rating": 7.3,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_98.jpg"
+  },
+  {
+    "title": "XXX 20",
+    "genre": "Action",
+    "rating": 7.8,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_99.jpg"
+  },
+  {
+    "title": "Mission Impossible 21",
+    "genre": "Action",
+    "rating": 5.6,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_100.jpg"
+  },
+  {
+    "title": "Fast & Furious 21",
+    "genre": "Action",
+    "rating": 6.9,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_101.jpg"
+  },
+  {
+    "title": "Bourne 21",
+    "genre": "Action",
+    "rating": 8.0,
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_102.jpg"
+  },
+  {
+    "title": "Kingsman 21",
+    "genre": "Action",
+    "rating": 7.2,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_103.jpg"
+  },
+  {
+    "title": "XXX 21",
+    "genre": "Action",
+    "rating": 9.0,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_104.jpg"
+  },
+  {
+    "title": "Mission Impossible 22",
+    "genre": "Action",
+    "rating": 6.9,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_105.jpg"
+  },
+  {
+    "title": "Fast & Furious 22",
+    "genre": "Action",
+    "rating": 8.5,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_106.jpg"
+  },
+  {
+    "title": "Bourne 22",
+    "genre": "Action",
+    "rating": 6.1,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_107.jpg"
+  },
+  {
+    "title": "Kingsman 22",
+    "genre": "Action",
+    "rating": 8.0,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_108.jpg"
+  },
+  {
+    "title": "XXX 22",
+    "genre": "Action",
+    "rating": 8.5,
+    "year": 1985,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Action_109.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 11",
+    "genre": "Romance",
+    "rating": 6.8,
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_50.jpg"
+  },
+  {
+    "title": "Youve Got Mail 11",
+    "genre": "Romance",
+    "rating": 7.0,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_51.jpg"
+  },
+  {
+    "title": "Splash 11",
+    "genre": "Romance",
+    "rating": 8.1,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_52.jpg"
+  },
+  {
+    "title": "Legal Blonde 11",
+    "genre": "Romance",
+    "rating": 5.6,
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_53.jpg"
+  },
+  {
+    "title": "The Proposal 11",
+    "genre": "Romance",
+    "rating": 6.3,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_54.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 12",
+    "genre": "Romance",
+    "rating": 6.0,
+    "year": 2007,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_55.jpg"
+  },
+  {
+    "title": "Youve Got Mail 12",
+    "genre": "Romance",
+    "rating": 6.4,
+    "year": 1989,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_56.jpg"
+  },
+  {
+    "title": "Splash 12",
+    "genre": "Romance",
+    "rating": 7.7,
+    "year": 1992,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_57.jpg"
+  },
+  {
+    "title": "Legal Blonde 12",
+    "genre": "Romance",
+    "rating": 8.3,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_58.jpg"
+  },
+  {
+    "title": "The Proposal 12",
+    "genre": "Romance",
+    "rating": 7.8,
+    "year": 1981,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_59.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 13",
+    "genre": "Romance",
+    "rating": 8.3,
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_60.jpg"
+  },
+  {
+    "title": "Youve Got Mail 13",
+    "genre": "Romance",
+    "rating": 7.5,
+    "year": 2009,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_61.jpg"
+  },
+  {
+    "title": "Splash 13",
+    "genre": "Romance",
+    "rating": 7.0,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_62.jpg"
+  },
+  {
+    "title": "Legal Blonde 13",
+    "genre": "Romance",
+    "rating": 7.1,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_63.jpg"
+  },
+  {
+    "title": "The Proposal 13",
+    "genre": "Romance",
+    "rating": 7.9,
+    "year": 1991,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_64.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 14",
+    "genre": "Romance",
+    "rating": 8.3,
+    "year": 1986,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_65.jpg"
+  },
+  {
+    "title": "Youve Got Mail 14",
+    "genre": "Romance",
+    "rating": 8.9,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_66.jpg"
+  },
+  {
+    "title": "Splash 14",
+    "genre": "Romance",
+    "rating": 7.6,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_67.jpg"
+  },
+  {
+    "title": "Legal Blonde 14",
+    "genre": "Romance",
+    "rating": 5.5,
+    "year": 1996,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_68.jpg"
+  },
+  {
+    "title": "The Proposal 14",
+    "genre": "Romance",
+    "rating": 5.9,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_69.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 15",
+    "genre": "Romance",
+    "rating": 7.0,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_70.jpg"
+  },
+  {
+    "title": "Youve Got Mail 15",
+    "genre": "Romance",
+    "rating": 8.4,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_71.jpg"
+  },
+  {
+    "title": "Splash 15",
+    "genre": "Romance",
+    "rating": 8.7,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_72.jpg"
+  },
+  {
+    "title": "Legal Blonde 15",
+    "genre": "Romance",
+    "rating": 8.8,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_73.jpg"
+  },
+  {
+    "title": "The Proposal 15",
+    "genre": "Romance",
+    "rating": 8.1,
+    "year": 2017,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_74.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 16",
+    "genre": "Romance",
+    "rating": 8.6,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_75.jpg"
+  },
+  {
+    "title": "Youve Got Mail 16",
+    "genre": "Romance",
+    "rating": 8.4,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_76.jpg"
+  },
+  {
+    "title": "Splash 16",
+    "genre": "Romance",
+    "rating": 9.0,
+    "year": 1984,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_77.jpg"
+  },
+  {
+    "title": "Legal Blonde 16",
+    "genre": "Romance",
+    "rating": 8.1,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_78.jpg"
+  },
+  {
+    "title": "The Proposal 16",
+    "genre": "Romance",
+    "rating": 6.0,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_79.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 17",
+    "genre": "Romance",
+    "rating": 8.7,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_80.jpg"
+  },
+  {
+    "title": "Youve Got Mail 17",
+    "genre": "Romance",
+    "rating": 6.4,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_81.jpg"
+  },
+  {
+    "title": "Splash 17",
+    "genre": "Romance",
+    "rating": 5.6,
+    "year": 2020,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_82.jpg"
+  },
+  {
+    "title": "Legal Blonde 17",
+    "genre": "Romance",
+    "rating": 5.7,
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_83.jpg"
+  },
+  {
+    "title": "The Proposal 17",
+    "genre": "Romance",
+    "rating": 9.1,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_84.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 18",
+    "genre": "Romance",
+    "rating": 8.1,
+    "year": 1997,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_85.jpg"
+  },
+  {
+    "title": "Youve Got Mail 18",
+    "genre": "Romance",
+    "rating": 7.6,
+    "year": 1982,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_86.jpg"
+  },
+  {
+    "title": "Splash 18",
+    "genre": "Romance",
+    "rating": 7.8,
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_87.jpg"
+  },
+  {
+    "title": "Legal Blonde 18",
+    "genre": "Romance",
+    "rating": 7.5,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_88.jpg"
+  },
+  {
+    "title": "The Proposal 18",
+    "genre": "Romance",
+    "rating": 7.0,
+    "year": 1998,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_89.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 19",
+    "genre": "Romance",
+    "rating": 7.4,
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_90.jpg"
+  },
+  {
+    "title": "Youve Got Mail 19",
+    "genre": "Romance",
+    "rating": 6.3,
+    "year": 2016,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_91.jpg"
+  },
+  {
+    "title": "Splash 19",
+    "genre": "Romance",
+    "rating": 9.1,
+    "year": 2024,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_92.jpg"
+  },
+  {
+    "title": "Legal Blonde 19",
+    "genre": "Romance",
+    "rating": 7.3,
+    "year": 2008,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_93.jpg"
+  },
+  {
+    "title": "The Proposal 19",
+    "genre": "Romance",
+    "rating": 6.1,
+    "year": 1999,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_94.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 20",
+    "genre": "Romance",
+    "rating": 9.1,
+    "year": 2005,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_95.jpg"
+  },
+  {
+    "title": "Youve Got Mail 20",
+    "genre": "Romance",
+    "rating": 6.1,
+    "year": 2019,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_96.jpg"
+  },
+  {
+    "title": "Splash 20",
+    "genre": "Romance",
+    "rating": 7.1,
+    "year": 2018,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_97.jpg"
+  },
+  {
+    "title": "Legal Blonde 20",
+    "genre": "Romance",
+    "rating": 8.7,
+    "year": 2000,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_98.jpg"
+  },
+  {
+    "title": "The Proposal 20",
+    "genre": "Romance",
+    "rating": 7.1,
+    "year": 1995,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_99.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 21",
+    "genre": "Romance",
+    "rating": 5.9,
+    "year": 2015,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_100.jpg"
+  },
+  {
+    "title": "Youve Got Mail 21",
+    "genre": "Romance",
+    "rating": 9.1,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_101.jpg"
+  },
+  {
+    "title": "Splash 21",
+    "genre": "Romance",
+    "rating": 6.4,
+    "year": 2014,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_102.jpg"
+  },
+  {
+    "title": "Legal Blonde 21",
+    "genre": "Romance",
+    "rating": 6.6,
+    "year": 2001,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_103.jpg"
+  },
+  {
+    "title": "The Proposal 21",
+    "genre": "Romance",
+    "rating": 6.1,
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_104.jpg"
+  },
+  {
+    "title": "Sleepless in Seattle 22",
+    "genre": "Romance",
+    "rating": 5.8,
+    "year": 2003,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_105.jpg"
+  },
+  {
+    "title": "Youve Got Mail 22",
+    "genre": "Romance",
+    "rating": 6.8,
+    "year": 1994,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_106.jpg"
+  },
+  {
+    "title": "Splash 22",
+    "genre": "Romance",
+    "rating": 8.5,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_107.jpg"
+  },
+  {
+    "title": "Legal Blonde 22",
+    "genre": "Romance",
+    "rating": 6.5,
+    "year": 1980,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_108.jpg"
+  },
+  {
+    "title": "The Proposal 22",
+    "genre": "Romance",
+    "rating": 6.9,
+    "year": 2021,
+    "poster": "https://image.tmdb.org/t/p/w500/p_Romance_109.jpg"
+  }
+]
